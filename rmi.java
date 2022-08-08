@@ -1,3 +1,7 @@
+
+//amrshekha 11923707
+//omarabuali 11923947
+
 public interface serverrmi {
 public double calculat(int ndays);
 }
